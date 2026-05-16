@@ -155,7 +155,7 @@ export default function Chatbot() {
                 </button>
               </div>
               <p className="text-[10px] text-center mt-4 text-ivory/30 uppercase tracking-widest">
-                Powered by La Viewtique AI
+                Powered by La Viewtique AI (Responses may take a few minutes)
               </p>
             </div>
           </motion.div>
